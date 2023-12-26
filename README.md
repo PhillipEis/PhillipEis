@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-Currently working for [Shape](https://shape.dk) as a Backend Developer.
+Passionate Backend Developer Intern at Shape, harnessing the power of autism as a valuable asset, not an obstacle.
 
 * 🌍  I'm based in Copenhagen
 * 🚀  I'm currently working on [Visualz](http://visualz.dk)
